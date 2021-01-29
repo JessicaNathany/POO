@@ -1,0 +1,9 @@
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\bin\Debug\netcoreapp3.1\ClassLibraryContaCorrente.deps.json
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\bin\Debug\netcoreapp3.1\ClassLibraryContaCorrente.dll
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\bin\Debug\netcoreapp3.1\ClassLibraryContaCorrente.pdb
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\obj\Debug\netcoreapp3.1\ClassLibraryContaCorrente.csprojAssemblyReference.cache
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\obj\Debug\netcoreapp3.1\ClassLibraryContaCorrente.csproj.CoreCompileInputs.cache
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\obj\Debug\netcoreapp3.1\ClassLibraryContaCorrente.AssemblyInfoInputs.cache
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\obj\Debug\netcoreapp3.1\ClassLibraryContaCorrente.AssemblyInfo.cs
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\obj\Debug\netcoreapp3.1\ClassLibraryContaCorrente.dll
+C:\Projetos\ProgramacaoOrientadoObjetos\ClassLibraryContaCorrente\obj\Debug\netcoreapp3.1\ClassLibraryContaCorrente.pdb

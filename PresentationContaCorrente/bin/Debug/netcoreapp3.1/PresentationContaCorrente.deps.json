@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PresentationContaCorrente/1.0.0": {
+        "dependencies": {
+          "ClassLibraryContaCorrente": "1.0.0"
+        },
+        "runtime": {
+          "PresentationContaCorrente.dll": {}
+        }
+      },
+      "ClassLibraryContaCorrente/1.0.0": {
+        "runtime": {
+          "ClassLibraryContaCorrente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PresentationContaCorrente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryContaCorrente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

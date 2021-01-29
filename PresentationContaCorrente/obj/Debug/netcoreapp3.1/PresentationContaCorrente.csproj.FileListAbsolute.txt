@@ -1,0 +1,16 @@
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\PresentationContaCorrente.exe
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\PresentationContaCorrente.deps.json
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\PresentationContaCorrente.runtimeconfig.json
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\PresentationContaCorrente.runtimeconfig.dev.json
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\PresentationContaCorrente.dll
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\PresentationContaCorrente.pdb
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\ClassLibraryContaCorrente.dll
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\bin\Debug\netcoreapp3.1\ClassLibraryContaCorrente.pdb
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.csprojAssemblyReference.cache
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.csproj.CoreCompileInputs.cache
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.AssemblyInfoInputs.cache
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.AssemblyInfo.cs
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.csproj.CopyComplete
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.dll
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.pdb
+C:\Projetos\ProgramacaoOrientadoObjetos\PresentationContaCorrente\obj\Debug\netcoreapp3.1\PresentationContaCorrente.genruntimeconfig.cache
